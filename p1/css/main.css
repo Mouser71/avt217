@@ -1,0 +1,22 @@
+body{
+  background-color: violet;
+  margin-top: 300px;
+}
+h1{
+  color: cyan;
+  text-align: center;
+}
+h3{
+  color: cyan;
+  text-align: center;
+}
+a:hover{
+  color: blue;
+}
+p{
+  text-align: center;
+  color: green;
+}
+a{
+  color: tomato;
+}

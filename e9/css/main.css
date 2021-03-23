@@ -1,0 +1,126 @@
+#p1 .shape1 {
+  width: 100px;
+  height: 100px;
+  background-color: magenta;
+  float: left;
+  opacity: .5;
+  margin: -10px;
+  border-top-left-radius: 50%;
+  border: 5px solid cyan
+}
+#p2 .shape1 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  float: left;
+  margin: -10px;
+  opacity: .5;
+  transform: rotate(45deg);
+  border: 2px solid black;
+}
+#p2 .shape2 {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+  margin: -10px;
+  opacity: .5;
+  transform: rotate(45deg);
+  border: 2px solid black;
+}
+#p3 .shape1 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  float: left;
+  margin: -10px;
+  opacity: .5;
+  border: 2px solid black;
+}
+#p3 .shape2 {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+  margin: -10px;
+  opacity: .8;
+  transform: rotate(45deg);
+  border: 2px solid red;
+}
+#p4 .shape1 {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+  margin: -10px;
+  opacity: .75;
+  border: 2px solid black;
+}
+#p4 .shape2 {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  float: left;
+  margin: -10px;
+  opacity: .5;
+  transform: rotate(-45deg);
+  border: 2px solid black;
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+#p4 .shape3 {
+  width: 100px;
+  height: 100px;
+  background-color: lime;
+  float: left;
+  margin: -10px;
+  opacity: .5;
+  transform: rotate(45deg);
+  border: 2px solid black;
+  border-bottom-left-radius: 50%;
+  border-top-right-radius: 50%;
+}
+#p5 .shape1 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  float: left;
+  margin: -15px;
+  opacity: .5;
+  border: 3px solid black;
+  transform: rotate(45deg);
+  border-top-left-radius: 50%
+}
+#p5 .shape2 {
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  float: left;
+  margin: -15px;
+  opacity: .5;
+  border: 3px solid black;
+  transform: rotate(45deg);
+    border-top-right-radius: 50%
+}
+#p5 .shape3 {
+  width: 100px;
+  height: 100px;
+  background-color: lime;
+  float: left;
+  margin: -15px;
+  opacity: .5;
+  border: 3px solid black;
+  transform: rotate(45deg);
+  border-bottom-right-radius: 50%
+}
+#p5 .shape4 {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  float: left;
+  margin: -15px;
+  opacity: .5;
+  border: 3px solid black;
+  transform: rotate(45deg);
+  border-bottom-left-radius: 50%
+}

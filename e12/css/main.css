@@ -1,0 +1,31 @@
+.text {
+  width: 800px;
+  height: 100px
+  text-align: right;
+  float: right;
+  padding-right: 800px;
+  font-family: sans-serif;
+}
+.author{
+  font-size: 32px;
+  color: gray;
+    font-family: sans-serif;
+}
+.title{
+  width: 1250px;
+  font-size: 64px;
+  color: gray;
+  text-align: right;
+  
+  font-family: sans-serif;
+
+}
+.chapter{
+  font-size: 40px;
+  color: gray;
+  font-style: italic;
+  text-align: left;
+  float: right;
+  width: 1200px;
+  font-family: sans-serif;
+}
